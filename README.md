@@ -5,6 +5,6 @@ adding numbers 0 and 1
 
 clone this package into workspace
 
-make server and clinet files executable
+make server and client files executable
 
 run roscore, then rosrun the server and client files
